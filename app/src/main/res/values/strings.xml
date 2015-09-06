@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Main Menu</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_game">Game</string>
+    <string name="title_activity_options_menu">optionsMenu</string>
+    <string name="title_activity_achievements_menu">achievementsMenu</string>
+</resources>
